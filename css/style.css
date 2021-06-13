@@ -1,0 +1,9 @@
+@font-face{
+    font-family: Comforta;
+    src: url(/fonts/Comfortaa-Regular.ttf);
+}
+
+body{
+    font-family: Comforta;
+}
+
